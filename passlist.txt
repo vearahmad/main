@@ -6,3 +6,13 @@ nvar567nvar
 nvar112233
 nvar12soz
 nvar11soz
+nvar567soz@
+nvar567soz#
+nvar567soz$
+nvar123soz@
+nvar123soz#
+nvar123soz$
+nvar12soz@
+nvar12soz#
+nvar12soz$
+
