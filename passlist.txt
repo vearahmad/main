@@ -1,7 +1,7 @@
 nvar192168@
-nvar192168#
+nvar192168
 nvar192168$
-nvar192168%
+nvar192168
 nvar192168&
 nvar112233
 nvar12soz
